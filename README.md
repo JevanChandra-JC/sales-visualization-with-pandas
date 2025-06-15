@@ -15,6 +15,8 @@ This repository contains Jupyter Notebooks focused on analyzing and transforming
 **sample_orders_expanded**
 - The expanded version of the dataset with the same amount of columns but with an additional 100 rows of data and more products.
 
+
+
 **🧰 Tools Used**
 - Python (Pandas, NumPy, Matplotlib/Seaborn)
 - Jupyter Notebook
