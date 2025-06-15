@@ -2,6 +2,7 @@
 This repository contains Jupyter Notebooks focused on analyzing and transforming sales data for business insights and reporting.
 
 **🔍 Contents**
+
 **SalesAnalysis.ipynb**
   Performs exploratory data analysis (EDA) on sales data to uncover trends, patterns, and key performance metrics.
 
