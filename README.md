@@ -3,17 +3,13 @@ This repository contains Jupyter Notebooks focused on analyzing and transforming
 
 **🔍 Contents**
 
-**SalesAnalysis.ipynb**
-  Performs exploratory data analysis (EDA) on sales data to uncover trends, patterns, and key performance metrics.
+**SalesAnalysis.ipynb**: Performs exploratory data analysis (EDA) on sales data to uncover trends, patterns, and key performance metrics.
 
-**ExpandSalesData.ipynb**
-  Expands the raw sales data to prepare it for analysis.
+**ExpandSalesData.ipynb**: Expands the raw sales data to prepare it for analysis.
 
-**sample_orders.csv**
-  Self made dataset with little content which will be expanded using ExpandSalesData.ipynb
+**sample_orders.csv**: Self made dataset with little content which will be expanded using ExpandSalesData.ipynb
   
-**sample_orders_expanded**
-  The expanded version of the dataset with the same amount of columns but with an additional 100 rows of data and more products.
+**sample_orders_expanded**: The expanded version of the dataset with the same amount of columns but with an additional 100 rows of data and more products.
 
 **🧰 Tools Used**
 - Python (Pandas, NumPy, Matplotlib/Seaborn)
